@@ -1,0 +1,1 @@
+Place the CFPB CSV at `data/complaints.csv`. Raw and processed datasets are intentionally excluded from Git.
